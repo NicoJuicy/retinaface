@@ -27,7 +27,7 @@ RetinaFace is a deep learning based cutting-edge facial detector for Python comi
 
 RetinaFace is the face detection module of [insightface](https://github.com/deepinsight/insightface) project. The original implementation is mainly based on mxnet. Then, its tensorflow based [re-implementation](https://github.com/StanislasBertrand/RetinaFace-tf2) is published by [Stanislas Bertrand](https://github.com/StanislasBertrand). So, this repo is heavily inspired from the study of Stanislas Bertrand. Its source code is simplified and it is transformed to pip compatible but the main structure of the reference model and its pre-trained weights are same.
 
-<p align="center"><img src="https://raw.githubusercontent.com/serengil/retinaface/master/tests/outputs/img3.jpg" width="90%" height="90%">
+<p align="center"><img src="https://raw.githubusercontent.com/serengil/retinaface/master/tests/outputs/img3.jpg" width="90%">
 <br><em>The Yellow Angels - Fenerbahce Women's Volleyball Team</em>
 </p>
 
@@ -83,7 +83,7 @@ for face in faces:
   plt.show()
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/serengil/retinaface/master/tests/outputs/alignment-procedure.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/serengil/retinaface/master/tests/outputs/alignment-procedure.png" width="80%"></p>
 
 **Face Recognition** - [`Demo`](https://youtu.be/WnUVYQP4h44)
 
@@ -97,7 +97,7 @@ obj = DeepFace.verify("img1.jpg", "img2.jpg"
 print(obj["verified"])
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/serengil/retinaface/master/tests/outputs/retinaface-arcface.png" width="100%" height="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/serengil/retinaface/master/tests/outputs/retinaface-arcface.png" width="100%"></p>
 
 Notice that ArcFace got 99.40% accuracy on [LFW data set](https://sefiks.com/2020/08/27/labeled-faces-in-the-wild-for-face-recognition/) whereas human beings just have 97.53% confidence.
 
@@ -112,11 +112,11 @@ There are many ways to support a project. Starring⭐️ the repo is just one �
 You can also support this work on [Patreon](https://www.patreon.com/serengil?repo=retinaface), [GitHub Sponsors](https://github.com/sponsors/serengil), or [Buy Me a Coffee](https://buymeacoffee.com/serengil).
 
 <a href="https://www.patreon.com/serengil?repo=retinaface">
-<img src="https://raw.githubusercontent.com/serengil/retinaface/master/icons/patreon.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/serengil/retinaface/master/icons/patreon.png" width="30%">
 </a>
 
 <a href="https://buymeacoffee.com/serengil">
-<img src="https://raw.githubusercontent.com/serengil/retinaface/master/icons/bmc-button.png" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/serengil/retinaface/master/icons/bmc-button.png" width="25%">
 </a>
 
 Also, your company's logo will be shown on README on GitHub if you become sponsor in gold, silver or bronze tiers.
