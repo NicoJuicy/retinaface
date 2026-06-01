@@ -5,7 +5,7 @@
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/retina-face?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/retina-face)
 [![Stars](https://img.shields.io/github/stars/serengil/retinaface?color=yellow&style=flat&label=%E2%AD%90%20stars)](https://github.com/serengil/retinaface/stargazers)
 [![License](http://img.shields.io/:license-MIT-green.svg?style=flat)](https://github.com/serengil/retinaface/blob/master/LICENSE)
-[![DOI](http://img.shields.io/:DOI-10.17671/gazibtd.1399077-blue.svg?style=flat)](https://doi.org/10.17671/gazibtd.1399077)
+[![DOI](http://img.shields.io/:DOI-10.35378/gujs.1794891-blue.svg?style=flat)](https://doi.org/10.35378/gujs.1794891)
 
 </div>
 
@@ -101,10 +101,6 @@ You can also support this work on [Patreon](https://www.patreon.com/serengil?rep
 <img src="https://raw.githubusercontent.com/serengil/retinaface/master/icons/patreon.png" width="30%">
 </a>
 
-<a href="https://buymeacoffee.com/serengil">
-<img src="https://raw.githubusercontent.com/serengil/retinaface/master/icons/bmc-button.png" width="25%">
-</a>
-
 Also, your company's logo will be shown on README on GitHub if you become sponsor in gold, silver or bronze tiers.
 
 ## Acknowledgements
@@ -113,20 +109,20 @@ This work is mainly based on the [insightface](https://github.com/deepinsight/in
 
 ## Citation
 
-If you are using RetinaFace in your research, please consider to cite its [original research paper](https://arxiv.org/abs/1905.00641). Besides, if you are using this re-implementation of retinaface, please consider to cite the following research papers as well. Here are examples of its BibTeX entries:
+If you are using RetinaFace in your research, please consider to cite its [original research paper](https://arxiv.org/abs/1905.00641). Besides, if you are using this re-implementation of retinaface, please consider to cite the following research paper as well. Here is example of its BibTeX entry:
 
 ```BibTeX
-@article{serengil2024lightface,
-  title     = {A Benchmark of Facial Recognition Pipelines and Co-Usability Performances of Modules},
-  author    = {Serengil, Sefik and Ozpinar, Alper},
-  journal   = {Journal of Information Technologies},
-  volume    = {17},
-  number    = {2},
-  pages     = {95-107},
-  year      = {2024},
-  doi       = {10.17671/gazibtd.1399077},
-  url       = {https://dergipark.org.tr/en/pub/gazibtd/issue/84331/1399077},
-  publisher = {Gazi University}
+@article{serengil2026boosted,
+  title     =  {Boosted LightFace: A Hybrid DNN and GBM Model for Boosted Facial Recognition},
+  author    =  {Serengil, Sefik Ilkin and Ozpinar, Alper},
+  journal   =  {Gazi University Journal of Science},
+  volume    =  {39},
+  number    =  {1},
+  pages     =  {452-466},
+  year      =  {2026},
+  doi       =  {10.35378/gujs.1794891},
+  url       =  {https://dergipark.org.tr/en/pub/gujs/article/1794891},
+  publisher =  {Gazi University}
 }
 ```
 
